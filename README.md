@@ -3,10 +3,10 @@
 ## Description
 
 
--motivation behind this project refactor code to a proper working condition
+-motivation behind this project was to refactor code to a proper working condition
 -this project was made to test my ability to read and understand someone else's code, and improve upon what was given to me.
--this project taught me how to link to other webpages, although that wasn't the inteded purpose. it also taught me how to jump to other sections of a webpage
--i learned how to make code more efficient, and where how to reference classes correctly
+-initially the webpage wasn't fully working, and the css had too much redundant code. this was fixed. this project taught me how to link to other webpages, although that wasn't the inteded purpose. it also taught me how to jump to other sections of a webpage. i learned how to make code more efficient, and where how to reference classes correctly
+-
 
 
 ## Installation
