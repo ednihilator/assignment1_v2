@@ -19,6 +19,9 @@ Provide instructions and examples for use.
 
 buttons on the top will now correctly jump to the intended areas of a webpage
 
+![alt text](/Develop/assets/images/readme_img.png)
+
+
 
 ## Credits
 
