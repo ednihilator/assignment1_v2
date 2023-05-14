@@ -3,10 +3,7 @@
 ## Description
 
 
--motivation behind this project was to refactor code to a proper working condition
--this project was made to test my ability to read and understand someone else's code, and improve upon what was given to me.
--initially the webpage wasn't fully working, and the css had too much redundant code. this was fixed. this project taught me how to link to other webpages, although that wasn't the inteded purpose. it also taught me how to jump to other sections of a webpage. i learned how to make code more efficient, and where how to reference classes correctly
--
+The motivation behind this project was to refactor code to a proper working condition. This project was made to test my ability to read and understand someone else's code, and improve upon what was given to me. Initially the webpage wasn't fully working, and the css had too much redundant code. This was fixed. This project taught me how to link to other webpages, although that wasn't the inteded purpose. It also taught me how to jump to other sections of a webpage. I learned how to make code more efficient, and where how to reference classes correctly.
 
 
 ## Installation
@@ -15,9 +12,7 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. 
-
-buttons on the top will now correctly jump to the intended areas of a webpage
+Buttons on the top will now correctly jump to the intended areas of a webpage
 
 ![alt text](/Develop/assets/images/readme_img.png)
 
